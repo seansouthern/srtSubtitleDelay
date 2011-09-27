@@ -1,0 +1,7 @@
+'''
+I wrote this short script to fix a subtitle file that was about thirteen seconds off. It worked and I learned a bit
+about using regular expressions in Python. If anyone would like to use, copy, and/or alter this program for any reason 
+please feel free.
+
+--Sean Southern
+'''
